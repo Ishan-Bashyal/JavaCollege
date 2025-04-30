@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "DecisionMaking",
+            "request": "launch",
+            "mainClass": "DecisionMaking",
+            "projectName": "classwork_cdb877"
+        },
+        {
+            "type": "java",
+            "name": "astrick",
+            "request": "launch",
+            "mainClass": "astrick",
+            "projectName": "classwork_cdb877"
+        },
+        {
+            "type": "java",
+            "name": "correction",
+            "request": "launch",
+            "mainClass": "correction",
+            "projectName": "classwork_cdb877"
+        },
+        {
+            "type": "java",
+            "name": "divby5and11",
+            "request": "launch",
+            "mainClass": "divby5and11",
+            "projectName": "classwork_cdb877"
+        },
+        {
+            "type": "java",
+            "name": "file",
+            "request": "launch",
+            "mainClass": "file",
+            "projectName": "classwork_cdb877"
+        },
+        {
+            "type": "java",
+            "name": "fullastrick",
+            "request": "launch",
+            "mainClass": "fullastrick",
+            "projectName": "classwork_cdb877"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "classwork_cdb877"
+        },
+        {
+            "type": "java",
+            "name": "max3",
+            "request": "launch",
+            "mainClass": "max3",
+            "projectName": "classwork_cdb877"
+        },
+        {
+            "type": "java",
+            "name": "program",
+            "request": "launch",
+            "mainClass": "program",
+            "projectName": "classwork_cdb877"
+        },
+        {
+            "type": "java",
+            "name": "quote",
+            "request": "launch",
+            "mainClass": "quote",
+            "projectName": "classwork_cdb877"
+        },
+        {
+            "type": "java",
+            "name": "zeronegpos",
+            "request": "launch",
+            "mainClass": "zeronegpos",
+            "projectName": "classwork_cdb877"
+        }
+    ]
+}
