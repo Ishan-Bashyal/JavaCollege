@@ -14,7 +14,7 @@ class Penguin extends Bird {
     }
 }
 
-public class BirdTest {
+public class Birdd {
     public static void main(String[] args) {
         Bird eagle = new Eagle();
         Bird penguin = new Penguin();

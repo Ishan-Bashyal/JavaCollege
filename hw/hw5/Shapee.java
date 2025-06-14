@@ -29,7 +29,7 @@ class Circle extends Shape {
     }
 }
 
-public class ShapeTest {
+public class Shapee {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
