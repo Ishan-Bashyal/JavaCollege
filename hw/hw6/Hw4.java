@@ -23,7 +23,7 @@ class MainCourse extends MenuItem {
 
 class Beverage extends MenuItem {
     void prepare() {
-        System.out.println("Pouring Beverage");
+        System.out.println("Preparing Beverage");
     }
     void serve() {
         System.out.println("Serving Beverage");
