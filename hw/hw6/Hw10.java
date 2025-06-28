@@ -1,18 +1,18 @@
 class Character {
     void attack() {
-        System.out.println("Character attacks");
+        System.out.println("Character");
     }
 }
 
 class Warrior extends Character {
     void attack() {
-        System.out.println("Warrior attacks with a sword");
+        System.out.println("Warrior");
     }
 }
 
 class Mage extends Character {
     void attack() {
-        System.out.println("Mage attacks with a spell");
+        System.out.println("Mage");
     }
 }
 

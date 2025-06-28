@@ -4,19 +4,19 @@ abstract class Instrument {
 
 class Piano extends Instrument {
     void playSound() {
-        System.out.println("Piano plays a melody");
+        System.out.println("Piano");
     }
 }
 
 class Guitar extends Instrument {
     void playSound() {
-        System.out.println("Guitar strums chords");
+        System.out.println("Guitar");
     }
 }
 
 class Violin extends Instrument {
     void playSound() {
-        System.out.println("Violin plays a beautiful tune");
+        System.out.println("Violin");
     }
 }
 
